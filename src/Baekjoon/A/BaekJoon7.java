@@ -15,8 +15,6 @@ public class BaekJoon7 {
         // 이미 가입되어 있는 아이디
         String aID = "joonas";
 
-        // 가입 할려는 아이디 (직접입력)
-        // String myID = "";
 
         System.out.print("새로 만드는 아이디를 입력하세요: ");
         String myID = scanner.nextLine();

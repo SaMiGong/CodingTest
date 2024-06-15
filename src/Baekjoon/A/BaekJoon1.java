@@ -5,6 +5,6 @@ public class BaekJoon1 {
         /*
         Hello World!를 출력하시오.
          */
-        System.out.println("Hello World");
+        System.out.println("Hello World!");
     }
 }
