@@ -17,7 +17,7 @@ public class BeakJoon2 {
 
         for (int i = 0; i < N; i++) {
             if (arr[i] < X) {
-                System.out.println(arr[i] + " ");
+                System.out.print(arr[i] + " ");
             }
         }
     }
