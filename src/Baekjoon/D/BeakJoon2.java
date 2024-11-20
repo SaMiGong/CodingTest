@@ -16,7 +16,7 @@ public class BeakJoon2 {
         sc.close();
 
         for (int i = 0; i < N; i++) {
-            if (arr[i] == X) {
+            if (arr[i] < X) {
                 System.out.println(arr[i] + " ");
             }
         }
